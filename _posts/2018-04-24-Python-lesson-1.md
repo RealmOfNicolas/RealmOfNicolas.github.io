@@ -24,7 +24,7 @@ Lesson 1</td>
   </tr>
   <tr>
     <td>Target for the lesson?</td>
-    <td>Set up new github and set up an account of code academy.</td>
+    <td>Set up new github and set up an account of Codecademy</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -40,7 +40,7 @@ Lesson 1</td>
   </tr>
   <tr>
     <td>We entered the class for our first python lesson.We were assigned our 
-Seats and I sat down. I was next to two people who were capable of mostly helping themselves.Our teacher told us what to do and then we were of and ready to learn. I logged on and signed up for code academy and made a new repository and forked Jekyll-now. Then our teacher called us in and explained to us about code academy and what made a good blog.
+Seats and I sat down. I was next to two people who were capable of mostly helping themselves.Our teacher told us what to do and then we were of and ready to learn. I logged on and signed up for Codecademyand made a new repository and forked Jekyll-now. Then our teacher called us in and explained to us about code academy and what made a good blog.
 After that he told us to go work on code academy and get a feel for the lessons.
 </td>
   </tr>
