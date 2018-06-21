@@ -60,5 +60,7 @@ I think that I also need to listen more to the teacher whenever they speak</td>
 Hopefully I will be better next week!</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-21 at 13.13.34.png">
+
 
 
