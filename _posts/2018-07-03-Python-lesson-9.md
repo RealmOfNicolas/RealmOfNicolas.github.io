@@ -57,4 +57,5 @@ Hopefully I will be better next week!</td>
   </tr>
 </table>
 <img src = "/images/Screenshot 2018-07-10 at 13.12.22.png">
+<img src = "/images/Screenshot 2018-07-10 at 13.15.53.png">
 
