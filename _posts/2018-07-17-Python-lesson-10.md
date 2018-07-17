@@ -55,5 +55,6 @@ Lesson 10</td>
 Hopefully I will be better next week!</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-07-17 at 13.32.51.png">
 
 
