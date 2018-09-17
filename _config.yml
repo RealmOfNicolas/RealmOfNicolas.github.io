@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: Otter
+name: Nicolas Ortega
 # Short bio or description (displayed in the header)
-description: Doing some python
+description: Ready to Comply
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://ww2.rspb.org.uk/community/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-05-27-10/robin3.jpg
@@ -21,7 +21,7 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
